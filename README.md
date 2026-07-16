@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=200&section=header&text=zyphxlabs&fontSize=42&fontColor=ffffff&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=SOC+Analyst+in+training;Google+Cybersecurity+Certified;TryHackMe+Pre+Security+Grad;Turning+logs+into+leads)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Blue+Team+Track;Google+Cybersecurity+Certified;TryHackMe+Pre+Security+Grad)](https://git.io/typing-svg)
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=briefcase&logoColor=black)
 
@@ -15,8 +15,8 @@
 
 ```ts
 const zyphxlabs = {
-  title: "SOC Analyst",
-  stack: ["Python", "Regex", "Splunk", "Chronicle", "Suricata", "Metasploit", "Linux", "Git"],
+  title: "Cybersecurity Student | Blue Team Track",
+  stack: ["Nmap", "Wireshark", "tcpdump", "John the Ripper", "Regex", "Splunk", "Chronicle", "Suricata", "Metasploit"],
   launchedProjects: ["cybersecurity-notes", "thm-soc-writeups"],
   certifications: [
     "Google Cybersecurity Professional Certificate",
@@ -61,11 +61,13 @@ TryHackMe room writeups covering SOC Level 1 fundamentals, social engineering, a
 
 **Languages**
 
-![Skills](https://skillicons.dev/icons?i=python&theme=dark)
+![Skills](https://skillicons.dev/icons?i=python,mysql&theme=dark)
 
 **Dev Tools**
 
-![Skills](https://skillicons.dev/icons?i=git,github,linux,bash,vim&theme=dark)
+![Skills](https://skillicons.dev/icons?i=git,github,linux,bash&theme=dark)
+
+*Also using: Nano (no skillicons.dev icon available for it)*
 
 ## GitHub Stats
 
